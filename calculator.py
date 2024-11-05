@@ -7,3 +7,4 @@ print(penjumlahan)
 pengurangan = a - b
 perkalian = a * b
 print (perkalian)
+print (a)
