@@ -3,3 +3,6 @@ b = 5
 
 penjumlahan = a + b
 print(penjumlahan)
+
+perkalian = a * b
+print (perkalian)
